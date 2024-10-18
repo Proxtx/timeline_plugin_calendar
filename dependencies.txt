@@ -1,1 +1,1 @@
-ical = "0.11.0"
+kitchen-fridge = "0.4.0"
